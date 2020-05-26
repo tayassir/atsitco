@@ -1,0 +1,9 @@
+.error{
+ border-width:1px;
+  border-color:red !important;
+
+}
+.eror_msg
+{
+	color:red;
+}
